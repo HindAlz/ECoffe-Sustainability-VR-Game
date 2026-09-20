@@ -7,7 +7,7 @@ using System.Text;
 public class AngryBehavior : MonoBehaviour
 {
     [Header("API Key")]
-    public string openAIApiKey = "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";
+    public string openAIApiKey = "key_here";
 
     [Header("UI References")]
     public Text dialogueText;
@@ -95,7 +95,7 @@ public class AngryBehavior : MonoBehaviour
         }
         else
         {
-            ShowCustomerDialogue("Ugh, whatever! I’m leaving.");
+            ShowCustomerDialogue("Ugh, whatever! Iï¿½m leaving.");
         }
     }
 
@@ -111,7 +111,7 @@ public class AngryBehavior : MonoBehaviour
         }
         else
         {
-            ShowCustomerDialogue("No way! That’s nonsense.");
+            ShowCustomerDialogue("No way! Thatï¿½s nonsense.");
         }
     }
 

@@ -6131,7 +6131,7 @@ MonoBehaviour:
   npcResponseText: {fileID: 1410015879}
   correctAnswerPanel: {fileID: 2056530549}
   correctAnswerText: {fileID: 630754577}
-  openAI_API_Key: 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
+  openAI_API_Key: key_here
 --- !u!222 &174526976
 CanvasRenderer:
   m_ObjectHideFlags: 0

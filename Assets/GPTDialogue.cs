@@ -28,7 +28,7 @@ public class GPTDialogue : MonoBehaviour
     public TMP_Text correctAnswerText;
     public System.Action OnConversationFinished;
 
-    public string openAI_API_Key = "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";
+    public string openAI_API_Key = "key_here";
 
     private const string API_URL = "https://api.openai.com/v1/chat/completions";
 
@@ -63,7 +63,7 @@ public class GPTDialogue : MonoBehaviour
         // Check for specific negative phrases
         //reply = reply.ToLower();
        // return reply.Contains("no") || reply.Contains("i don't") || reply.Contains("not convinced") ||
-        //       reply.Contains("still hate") || reply.Contains("won’t") || reply.Contains("don't care") ||
+        //       reply.Contains("still hate") || reply.Contains("wonï¿½t") || reply.Contains("don't care") ||
         //       reply.Contains("refuse") || reply.Contains("never");
     }
 
