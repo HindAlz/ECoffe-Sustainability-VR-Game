@@ -21,7 +21,7 @@ The project also includes a short sandwich making demo for a focused introductio
 The source also includes an AI assisted NPC dialogue feature in which the player explains the use of sustainable utensils.
 
 ## Scene guide
-<img width="2470" height="1298" alt="Screenshot 2026-09-20 163558" src="https://github.com/user-attachments/assets/bf35b4b8-376f-43af-837b-3aa874290f0e" />
+<img width="2606" height="1258" alt="Screenshot 2026-09-20 164641" src="https://github.com/user-attachments/assets/348a21cb-cbe3-4bb1-9937-3d20044d682c" />
 
 The main scenes are in **[`Assets/Scenes/scenes/`](Assets/Scenes/scenes/)**. Scene names and capitalization below match the project files.
 
