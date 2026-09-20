@@ -1,4 +1,7 @@
 # ECoffe Sustainability VR Game
+<img width="1660" height="526" alt="Screenshot 2026-09-20 163800" src="https://github.com/user-attachments/assets/1dc5488d-b2be-4b9e-95ff-681490097a49" />
+
+
 
 **A Unity VR café game built for Meta Quest, combining food preparation, café customization, and sustainability themed gameplay.**
 
@@ -18,6 +21,7 @@ The project also includes a short sandwich making demo for a focused introductio
 The source also includes an AI assisted NPC dialogue feature in which the player explains the use of sustainable utensils.
 
 ## Scene guide
+<img width="2470" height="1298" alt="Screenshot 2026-09-20 163558" src="https://github.com/user-attachments/assets/bf35b4b8-376f-43af-837b-3aa874290f0e" />
 
 The main scenes are in **[`Assets/Scenes/scenes/`](Assets/Scenes/scenes/)**. Scene names and capitalization below match the project files.
 
@@ -84,3 +88,4 @@ See Unity's [Android build instructions](https://docs.unity.com/en-us/engine/600
 | [`GPTDialogue.cs`](Assets/GPTDialogue.cs) | The sustainability themed NPC dialogue integration. |
 | [`Assets/OurPrefabs/`](Assets/OurPrefabs/) | Project prefabs. |
 
+demo video: https://drive.google.com/file/d/12-mcW_iDNXramo13fpW3OXApJ-y5A6Qs/view?usp=drive_link
